@@ -138,8 +138,8 @@ def bou():
 ╚═╝  ╚═══╝ ╚═════╝    ╚═╝          ╚═╝    ╚═════╝  ╚═════╝ 
         {RESET}                                                 
 
-         [{RED}+{RESET}] Github :
-         [{RED}+{RESET}] discord :    
+         [{RED}+{RESET}] Github :   https://github.com/Yoydhb530
+         [{RED}+{RESET}] discord :  https://discord.gg/hcansqryZr
                                 
    ''')
 if linp == '1' :
